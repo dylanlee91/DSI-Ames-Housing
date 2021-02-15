@@ -1,5 +1,6 @@
-![alt text](https://github.com/dylanlee91/DSI-Ames-Housing/blob/ga_logo.png?raw=true)
-# Project 2: Using machine learning to predict sale prices of residential property in Ames, Iowa
+![alt text](https://github.com/dylanlee91/DSI-Ames-Housing/blob/ga_logo.png?raw=true) 
+# General Assembly Data Science Immersive Project 2: 
+# Using machine learning to predict sale prices of residential property in Ames, Iowa
 ## Introduction
 In this project, data from Ames, Iowa for houses sold between 2006 and 2010 are used to create a model that may explain sale prices in Ames. 
 This project is split into 2 notebooks:
